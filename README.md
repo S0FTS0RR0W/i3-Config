@@ -3,7 +3,6 @@
 This repository contains my personal configuration files for the i3 window manager and related tools.
 
 ![Wallpaper](wallhaven.png)
-*(A screenshot of the desktop would be a great addition here!)*
 
 ## Components
 
