@@ -19,7 +19,7 @@ An installation script is provided to automate the setup process. The script is 
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/S0FTS0RR0W/i3-config.git
+git clone https://github.com/S0FTS0RR0W/i3-Config.git
 cd i3-Config
 ```
 
