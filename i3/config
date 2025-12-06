@@ -192,7 +192,7 @@ bar {
         status_command i3blocks
 }
 
-exec --no-startup-id feh --bg-scale /home/charlie/Pictures/wallhaven.png
+exec --no-startup-id feh --bg-scale ~/Pictures/wallhaven.png
 
 exec --no-startup-id picom --config ~/.config/picom/picom.conf -b &
 
